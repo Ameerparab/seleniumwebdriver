@@ -1,0 +1,10 @@
+# this is outfiles to be ignore
+test-output/
+
+#this is ignoring eclipse files and folder 
+.classpath
+.project
+.settings/
+
+#ignoring log files
+*.log
