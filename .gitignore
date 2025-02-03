@@ -23,3 +23,13 @@ Dependencies.toml
 Config.toml
 # the config files used for testing, Uncomment the following line if you want to commit the test config files
 #!**/tests/Config.toml
+# this is outfiles to be ignore
+test-output/
+
+#this is ignoring eclipse files and folder 
+.classpath
+.project
+.settings/
+
+#ignoring log files
+*.log
