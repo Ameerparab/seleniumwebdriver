@@ -33,3 +33,10 @@ test-output/
 
 #ignoring log files
 *.log
+
+
+
+
+#ignoring target
+target/
+
